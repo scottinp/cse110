@@ -15,6 +15,12 @@ My favorite cuisines
 2. American
 3. Mexican
 
+I want to travel to
+- [x] Canada
+- [x] Vietnam
+- [ ] China
+- [ ] Japan
+
 ### Misc
 
 I like the quote:
