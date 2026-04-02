@@ -1,6 +1,6 @@
 # Scottin Pham
 
-<pictures/easter-egg-dog.gif>
+![easter egg dog](pictures/easter-egg-dog.gif)
 
 ## About me
 Hi, I'm Scottin Pham. I'm a computer science student at *UCSD* and I am currently taking **CSE 110** with **Thomas Powell**.
