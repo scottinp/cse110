@@ -30,6 +30,6 @@ git commit
 
 A link to my [repo](https://github.com/scottinp/cse110)
 
-Link to the About me section: [About Me](#About-me).
+Link to the top of the page: [Scottin Pham](#Scottin-Pham).
 
 [Here is a link to an awesome picture of a dog](pictures/dog.jpg)
